@@ -149,7 +149,9 @@ If you feel we need a new method or something to pull from LinkedIn then the fol
 
 ### Development installation
 
-TODO
+if you wish to use this package simply `pip install li_scrapi`
+
+for development, pull down the library and simply do `poetry install` 
 
 ### Troubleshooting
 
