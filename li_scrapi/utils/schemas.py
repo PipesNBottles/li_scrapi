@@ -14,6 +14,7 @@ class ContentSource(Enum):
 
 class JobState(Enum):
     LISTED = "LISTED"
+    SUSPENDED = "SUSPENDED"
 
 
 class ContentType(Enum):
